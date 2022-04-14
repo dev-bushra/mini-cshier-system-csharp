@@ -1,0 +1,73 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\bin\Debug\cashieringminisystem.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\bin\Debug\cashieringminisystem.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\bin\Debug\cashieringminisystem.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.adduser.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.breakfastform.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.BURGERFORM.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.cashieringform.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.DESSERTFORM.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.DRINKSFORM.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.MEALFORM.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.Form1.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.add_product.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.exe
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.xml
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.pdb
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\bin\Debug\cashieringminisystem.exe
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\bin\Debug\cashieringminisystem.pdb
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\bin\Debug\cashieringminisystem.xml
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.adduser.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.add_product.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.breakfastform.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.BURGERFORM.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.cashieringform.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.DESSERTFORM.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.DRINKSFORM.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.Form1.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.MEALFORM.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.Resources.resources
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.vbproj.GenerateResource.Cache
+C:\Users\jeanniebe\Documents\Visual Studio 2008\Projects\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.receipt.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.exe
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.xml
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.pdb
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\bin\Debug\cashieringminisystem.exe
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\bin\Debug\cashieringminisystem.pdb
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\bin\Debug\cashieringminisystem.xml
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\ResolveAssemblyReference.cache
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.adduser.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.add_product.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.breakfastform.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.BURGERFORM.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.cashieringform.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.DESSERTFORM.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.DRINKSFORM.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.Form1.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.MEALFORM.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.Resources.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.receipt.resources
+D:\xampp\htdocs\phpTuts\System\cashieringminisystem\cashieringminisystem\obj\Debug\cashieringminisystem.vbproj.GenerateResource.Cache
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.vbproj.AssemblyReference.cache
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.adduser.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.add_product.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.breakfastform.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.BURGERFORM.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.cashieringform.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.DESSERTFORM.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.DRINKSFORM.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.Form1.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.MEALFORM.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.Resources.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.receipt.resources
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.vbproj.GenerateResource.cache
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.vbproj.CoreCompileInputs.cache
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.exe
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.xml
+C:\Users\BUSHRA\Desktop\cashieringminisystem\obj\Debug\cashieringminisystem.pdb
